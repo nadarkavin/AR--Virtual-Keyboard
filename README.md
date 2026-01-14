@@ -4,7 +4,7 @@ A simple **Augmented Reality (AR) keyboard** built using **OpenCV** and **MediaP
 ## ✨ Features
 - Real-time **hand & finger tracking**  
 - **Hover + tap detection** to avoid mistakes   
-- Special keys: `SPACE`, `DEL`, `CLEAR` ⌨️  
+- Special keys: `SPACE`, `DEL`, `CLEAR` 
 - Visual feedback: keys turn **green** when pressed
 
 ## 🛠️ How It Works
